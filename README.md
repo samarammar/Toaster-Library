@@ -23,7 +23,7 @@ For newer versions of gradle add it to settings.gradle file
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Write in on your onCreate() function:
+Write in your onCreate() function:
 
  UsersMessage().getMessageData(this)
  
